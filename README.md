@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Movie Recommendation</strong></h3>
+<h1 align="center"><strong>🔍Movie Recommendation</strong></h3>
 
 `#mysql` `#pymysql`
 
